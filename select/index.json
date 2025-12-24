@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Perfect Night (Sped Up ver.)",
+  "base_artist": "LE SSERAFIM",
+  "createdAt": "2025-12-24T16:40:53.531851Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Perfect Night (sped up ver.)",
+      "artist": "LE SSERAFIM",
+      "has_synced": false,
+      "path": "select/01_Perfect_Night_(sped_up_ver.)_LE_SSERAFIM.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Perfect Night (Sped Up ver.)",
+      "artist": "LE SSERAFIM (르세라핌)",
+      "has_synced": true,
+      "path": "select/02_Perfect_Night_(Sped_Up_ver.)_LE_SSERAFIM_(르세라핌).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Perfect Night (Sped Up ver.)",
+      "artist": "LE SSERAFIM",
+      "has_synced": false,
+      "path": "select/pl_01_Perfect_Night_(Sped_Up_ver.)_LE_SSERAFIM.txt"
+    }
+  ]
+}
